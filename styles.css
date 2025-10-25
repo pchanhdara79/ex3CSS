@@ -15,23 +15,25 @@ body.resume {
 }
 
 .uwm_header {
-    max-width: 1000px;
+    max-width: none;
+    width: 100%;
     margin: 0 auto;
     background-color: #ee9ba7;
     padding: 20px;
 }
 
 .uwm_main {
-    max-width: 1000px;
+    max-width: none;
+    width: 100%;
     margin: 0 auto;
     background-color: #d4acb2;
     padding: 20px;
 }
 
 .uwm_footer {
-    max-width: 1000px;
+    max-width: none;
+    width: 100%;
     margin: 0 auto;
-    color: black;
     background-color: #e4c9cd;
     padding: 20px;
 }
