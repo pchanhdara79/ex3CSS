@@ -41,6 +41,7 @@ body.uwm {
 .uwm_footer {
     max-width: 1000px;
     margin: 0 auto;
-    background-color: #5d7272;
+    color: black;
+    background-color: #c1dddd;
     padding: 20px;
 }
