@@ -1,21 +1,17 @@
 body {
     margin: 0;
     font-family: Garamond, serif;
+}
+
+body.resume {
     background-color: #ECE0DA;
-    color: #000000;
 }
 
-.resume_header, .resume_main, .uwm_header, .uwm_main, .uwm_nav, .uwm_footer {
-    margin-left: auto;
-    margin-right: auto;
-    padding: 20px;
-    background-color: #ffffff;
-}
-
-/* Resume layout */
-.resume_header,
-.resume_main {
+.resume_header, .resume_main {
     max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
 }
 
 .resume_section {
@@ -24,70 +20,27 @@ body {
     padding: 10px;
 }
 
-/* UWM layout */
 body.uwm {
     background-color: #9fc4b9;
 }
 
-.uwm_header,
-.uwm_main,
-.uwm_nav,
+.uwm_header {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #F6B0BB;
+    padding: 20px;
+}
+
+.uwm_main {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #F1C8CB;
+    padding: 20px;
+}
+
 .uwm_footer {
     max-width: 1000px;
-}
-
-.uwm_article {
-    background-color: #F6B0BB;
-    margin-bottom: 20px;
-    padding: 10px;
-}
-
-.uwm_article_research {
-    background-color: #919e9a;
-}
-
-.uwm_aside {
-    background-color: #5d7469;
-    padding: 10px;
-    margin-bottom: 20px;
-}
-
-.uwm_section {
-    background-color: #F1C8CB;
-    padding: 10px;
-    margin-bottom: 15px;
-}
-
-.header_h1 {
-    text-align: center;
-    margin-bottom: 5px;
-}
-
-.address {
-    text-align: center;
-    color: #444444;
-    margin-bottom: 20px;
-}
-
-p {
-    margin-bottom: 15px;
-}
-
-.nav_ul, .footer_ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-
-.nav_li {
-    display: inline-block;
-    margin: 0 10px;
-}
-
-.uwm_footer {
+    margin: 0 auto;
     background-color: #416157;
-    color: white;
-    text-align: center;
-    padding: 40px 20px;
+    padding: 20px;
 }
