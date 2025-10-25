@@ -7,7 +7,7 @@ body.resume {
     background-color: #1e2b29;
 }
 
-.resume_header, .resume_main {
+.resume_main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
