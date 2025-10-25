@@ -37,3 +37,9 @@ body.resume {
     background-color: #e4c9cd;
     padding: 20px;
 }
+
+.uwm_text {
+    max-width: 1000px;
+    margin: 0 auto;  /* centers the content horizontally */
+    text-align: left; /* left-align text */
+}
