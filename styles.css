@@ -21,7 +21,7 @@ body.resume {
 }
 
 body.uwm {
-    background-color: #416157;
+    background-color: #1e2b29;
 }
 
 .uwm_header {
@@ -34,13 +34,13 @@ body.uwm {
 .uwm_main {
     max-width: 1000px;
     margin: 0 auto;
-    background-color: #F1C8CB;
+    background-color: #d4acb2;
     padding: 20px;
 }
 
 .uwm_footer {
     max-width: 1000px;
     margin: 0 auto;
-    background-color: #9fc4b9;
+    background-color: #5d7272;
     padding: 20px;
 }
