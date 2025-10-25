@@ -4,20 +4,14 @@ body {
 }
 
 body.resume {
-    background-color: #ECE0DA;
+    background-color: #1e2b29;
 }
 
 .resume_header, .resume_main {
     max-width: 800px;
     margin: 0 auto;
-    background-color: #ffffff;
     padding: 20px;
-}
-
-.resume_section {
-    background-color: #F1C8CB;
-    margin-bottom: 20px;
-    padding: 10px;
+    background-color: #ECE0DA;
 }
 
 body.uwm {
