@@ -18,12 +18,14 @@ body.resume {
     max-width: 1000px;
     margin: 0 auto;
     background-color: #ee9ba7;
+    padding: 20px;
 }
 
 .uwm_main {
     max-width: 1000px;
     margin: 0 auto;
     background-color: #d4acb2;
+    padding: 20px;
 }
 
 .uwm_footer {
@@ -31,4 +33,5 @@ body.resume {
     margin: 0 auto;
     color: black;
     background-color: #e4c9cd;
+    padding: 20px;
 }
